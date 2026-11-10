@@ -62,7 +62,7 @@ public partial class AboutView : UserControl
     // Developer and sponsor links intentionally credit the original author (w4po);
     // the project page points at the maintained ExplorerTabPlus fork (issues, releases).
     private void OpenDeveloperPage(object _, RoutedEventArgs __) => OpenUrl("https://github.com/w4po");
-    private void OpenProjectPage(object _, RoutedEventArgs __) => OpenUrl("https://github.com/doomsday616/ExplorerTabPlus");
+    private void OpenProjectPage(object _, RoutedEventArgs __) => OpenUrl("https://github.com/lazyalex616/ExplorerTabPlus");
 
     private void OpenSupportPage(object sender, RoutedEventArgs _)
     {

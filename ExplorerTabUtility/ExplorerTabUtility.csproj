@@ -13,8 +13,8 @@
         <Company>$(AssemblyName)</Company>
         <Description>Explorer Tab Utility (ExplorerTabPlus build): Force new windows to tabs. Streamline navigation!</Description>
         <Copyright>Copyright © 2025 w4po</Copyright>
-        <PackageProjectUrl>https://github.com/doomsday616/ExplorerTabPlus</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/doomsday616/ExplorerTabPlus</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/lazyalex616/ExplorerTabPlus</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/lazyalex616/ExplorerTabPlus</RepositoryUrl>
         <SatelliteResourceLanguages>none</SatelliteResourceLanguages>
         <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
     </PropertyGroup>
